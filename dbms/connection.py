@@ -9,7 +9,7 @@ def Connect():
         conn = mysql.connector.connect(
             host="localhost",
             username="root",
-            password="Hoa30025091",
+            password="",
             database="taxi_booking_system",
         )
     except:
