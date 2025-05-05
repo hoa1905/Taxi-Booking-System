@@ -1,0 +1,12 @@
+customtkinter
+mysql-connector-python
+tkcalendar
+Pillow
+sqlalchemy
+tktimepicker
+pandas
+matplotlib
+pymysql
+reportlab
+geopy
+tkintermapview
