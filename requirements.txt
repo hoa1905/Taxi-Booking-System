@@ -1,0 +1,20 @@
+customtkinter
+mysql-connector-python
+tkcalendar
+Pillow
+sqlalchemy
+tktimepicker
+pandas
+matplotlib
+pymysql
+reportlab
+geopy
+tkintermapview
+openrouteservice
+
+
+"""
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+"""
